@@ -10,7 +10,11 @@ Nemesis Market is a unique and exciting clandestine network Nemesis market link 
 
 ## Nemesis Market Link:
 
-- [Abacus Market](http://abacus-markets.com) - `http://abacus7ygil56glanhj3oai2gap6pomy5tevunbvv3lbo3jg7zua7yid.onion/`
+- [Abacus Market](http://abacus-markets.com) - `http://abacus7ygil56glanhj3oai2gap6pomy5tevunbvv3lbo3jg7zua7yid.onion`
+  
+- [Archetyp Market](http://4pt4axjmg2gwms2dyakkvyrdt3wr7zygbstfkdkrlz5bkyouhafrbvyd.onion) - `http://4pt4axjmg2gwms2dyakkvyrdt3wr7zygbstfkdkrlz5bkyouhafrbvyd.onion`
+
+- [Ares Market](http://ares3oxm6nb7ucudpp5ezyzffqv6ftg7gq6lttj4yic3wyfqdcj3oyyd.onion) - `http://ares3oxm6nb7ucudpp5ezyzffqv6ftg7gq6lttj4yic3wyfqdcj3oyyd.onion`
  
 - [Nemesis Market](http://67yacluggxrd4qxlvmuhvkm4qen767bugxdsfseemxhkohgy5jeh6aad.onion) - `http://67yacluggxrd4qxlvmuhvkm4qen767bugxdsfseemxhkohgy5jeh6aad.onion`
 
@@ -31,13 +35,12 @@ Nemesis Market is a unique and exciting clandestine network Nemesis market link 
 
 *Established Darknet markets that have been operating for a while*
 
-- [Incognito Market](http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion) - `http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion`
 
 - [Nemesis Market](http://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion) - `http://nemesis5a42d6yb6rhsic5scq5kroykitplnzvda33l4gxuhxtmqyrid.onion`
 
-- [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion`
+- [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion) - `http://abacus7ygil56glanhj3oai2gap6pomy5tevunbvv3lbo3jg7zua7yid.onion`
 
-- [Archetyp Market](http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion) - `http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion`
+- [Archetyp Market](http://4pt4axjmg2gwms2dyakkvyrdt3wr7zygbstfkdkrlz5bkyouhafrbvyd.onion) - `http://4pt4axjmg2gwms2dyakkvyrdt3wr7zygbstfkdkrlz5bkyouhafrbvyd.onion`
 
 - [Kerberos Market](http://kerberoispgarcfojevke3m6pcz62i5vq7ftjpyea6tnrpv7vu4anjid.onion) - `http://kerberoispgarcfojevke3m6pcz62i5vq7ftjpyea6tnrpv7vu4anjid.onion`
 
@@ -46,8 +49,6 @@ Nemesis Market is a unique and exciting clandestine network Nemesis market link 
 - [DrugHub Market](http://drughub3uuejhj5c7hqrd2fjh7k5y3m6ksg3s3u2upy4byzqmgr7glid.onion) - `http://drughub3uuejhj5c7hqrd2fjh7k5y3m6ksg3s3u2upy4byzqmgr7glid.onion`
 
 - [Super Market](http://superxcceybzhdr6x6xvjslakt53hfcyujnku4g4zy7q6zvvjux3i3id.onion) - `http://superxcceybzhdr6x6xvjslakt53hfcyujnku4g4zy7q6zvvjux3i3id.onion`
-
-- [Ares Market](http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion`
 
 - [Cypher Market](http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion) - `http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion`
 
